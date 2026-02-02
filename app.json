@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expense-checker",
+    "name": "生活費内訳チェッカー",
     "slug": "expense-checker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#F5F5F5"
     },
     "ios": {
       "supportsTablet": true
